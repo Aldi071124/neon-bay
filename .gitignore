@@ -1,0 +1,4 @@
+# Build output from `node main.ts` (dossier + copied game and screenshots)
+out/
+# Local editor and OS clutter
+.DS_Store
